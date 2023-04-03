@@ -22,7 +22,7 @@ The PPMI data was originally collected from people across the world with and wit
 
 ## Proposed Architecture
 
-![Arch](Fig\01.png)
+![figure](Fig\01.png)
 
 ## Results
 
