@@ -5,6 +5,8 @@
 
 * Racism and age discrimination reduced after bias abatement. First, address gender prejudice. Bias reduction hurts both models. Both classifiers have higher gender FNRs. Our findings are crucial for medical artificial intelligence academics, physicians, and policymakers since both classifiers work effectively and yield the largest FNR disparity. Understanding digital healthcare systems' biases prevents disparities.
 
+
+
 ## Dependencies
 Please first install the following dependencies
 * Python3 (we use 3.8.3)
@@ -19,8 +21,7 @@ The PPMI data was originally collected from people across the world with and wit
 
 ## Proposed Architecture
 
-## normal hand  
-![Arch](Fig\framework.pdf)
+![Arch](Fig\01.png)
 
 ## Results
 
