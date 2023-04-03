@@ -1,4 +1,5 @@
 # Detection of Parkinson's Disease Progression with Consideration for Fairness.
+
 * PD hinders healthy living. Gender impacts Parkinson's patients' health. Symptoms, onset, and therapy differ. Women with PD exhibited better cognitive, emotional, and non-motor symptoms. Males predicted mental health-related quality of life better than women, while women predicted physical and emotional components. We examine the Parkinson's Progression Markers Initiative (PPMI) dataset for gender, age, and racial biases to address this understudied topic.
 
 * Machine learning algorithms must be checked for biases due to demographic disparities in PD diagnosis and therapy. Probabilistic data transformation maximizes pre-processing fairness. We train ML models without and with fairness mitigation to study bias, unfair model training, and fairness-accuracy trade-offs. Two machine learning classifiers—Decision Tree (DT) and Random Forest—were compared (RF). DT model findings are 82.03% racial bias, 80.05% age bias, and 85.03% accuracy (gender bias). RF model accuracy is 85% (racial bias), 80% (age bias), and 83% (gender bias) (gender bias). 
