@@ -22,11 +22,13 @@ The PPMI data was originally collected from people across the world with and wit
 
 ## Proposed Architecture
 
-![figure](Fig\01.png)
+![figure](Fig\01.png  "framework")
+<img src="Fig\01.png">  
 
 ## Results
 
 ## Acknowledgements
+
 * IBM Fairness 360 is an open source toolkit for detecting and mitigating bias in machine learning models. The toolkit provides a comprehensive set of metrics for measuring bias in datasets and models, as well as a variety of algorithms for mitigating bias. https://github.com/Trusted-AI/AIF360
 ## Cite paper
 
