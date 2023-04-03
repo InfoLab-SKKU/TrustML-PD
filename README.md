@@ -6,7 +6,8 @@
 
 * Racism and age discrimination reduced after bias abatement. First, address gender prejudice. Bias reduction hurts both models. Both classifiers have higher gender FNRs. Our findings are crucial for medical artificial intelligence academics, physicians, and policymakers since both classifiers work effectively and yield the largest FNR disparity. Understanding digital healthcare systems' biases prevents disparities.
 
-
+## Types of biases in the ML pipeline at different stages
+<img src="Fig\02.png">  
 
 ## Dependencies
 Please first install the following dependencies
@@ -22,10 +23,11 @@ The PPMI data was originally collected from people across the world with and wit
 
 ## Proposed Architecture
 
-![figure](Fig\01.png  "framework")
 <img src="Fig\01.png">  
 
-## Results
+# Detali explanation 
+Parkinson's disease progression detection method that mitigates prejudice and fairness. Multi-modal and baseline data are extracted from PPMI. Essential preprocessing prepares the dataset for model training and testing. We use normalization and feature selection for this. ML model optimization refines each model. Discriminating data unit testing identified biases, and bias and group metrics corrected them. Lastly, we compared classifier results using original and modified data. Data fairness implications of the findings are discussed.
+
 
 ## Acknowledgements
 
