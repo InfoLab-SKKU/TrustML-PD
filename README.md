@@ -25,7 +25,6 @@ The PPMI data was originally collected from people across the world with and wit
 
 <img src="Fig\01.png">  
 
-# Detali explanation 
 Parkinson's disease progression detection method that mitigates prejudice and fairness. Multi-modal and baseline data are extracted from PPMI. Essential preprocessing prepares the dataset for model training and testing. We use normalization and feature selection for this. ML model optimization refines each model. Discriminating data unit testing identified biases, and bias and group metrics corrected them. Lastly, we compared classifier results using original and modified data. Data fairness implications of the findings are discussed.
 
 
